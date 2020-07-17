@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! If you are reading this you have followed an old link to my previous Github name. This account is not where my code lives, [click here to visit my active account!](https://github.com/ichbindev)
 
 <!--
 **cmlinac/cmlinac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
